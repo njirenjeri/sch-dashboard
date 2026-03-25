@@ -28,6 +28,7 @@ const BigCalendar = () => {
         style={{ height: "98%" }}
         min={new Date(2026, 0, 1, 7,0)}
         max={new Date(2026, 0, 1, 19,0)}
+        // className='flex flex-col items-center'
     />   
     )
 }
